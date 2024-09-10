@@ -1,0 +1,29 @@
+baseURL: "https://example.com"
+languageCode: "en-us"
+title: "My Personal Blog"
+theme: "ananke"
+
+params:
+  description: "Welcome to my personal blog!"
+  favicon: ""
+  site_logo: ""
+  facebook: ""
+  twitter: "https://twitter.com/yourusername"
+  instagram: ""
+  youtube: ""
+  github: "https://github.com/yourusername"
+  gitlab: ""
+  linkedin: ""
+  mastodon: ""
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Posts"
+      url: "/posts/"
+      weight: 3
