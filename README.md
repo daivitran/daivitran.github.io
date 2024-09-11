@@ -1,6 +1,6 @@
-# David's personal Website
+# David's Personal Website
 
-This is the source code for my personal website, built with Hugo. The website is hosted on GitHub Pages.
+This is the source code for my personal website.
 
 ## Features
 
