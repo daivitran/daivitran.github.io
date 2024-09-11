@@ -13,14 +13,13 @@ body {
     padding: 20px;
 }
 
-h1,
-h2 {
-    color: #2c3e50;
-}
-
 a {
     color: rgb(191, 64, 0);
     text-decoration: none;
+}
+
+p {
+    font-size: 20px;
 }
 
 a:hover {
@@ -29,10 +28,4 @@ a:hover {
 
 .links {
     text-align: left;
-}
-
-@media (max-width: 600px) {
-    .container {
-        padding: 10px;
-    }
 }
