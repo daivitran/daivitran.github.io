@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    margin-top: 25px;
+    margin-top: 25p x;
     margin-bottom: 25px;
     display: flex;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 #middle {
-    max-width: 31em;
+    max-width: 45em;
 }
 
 #right {
